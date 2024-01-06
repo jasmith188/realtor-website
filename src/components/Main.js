@@ -127,7 +127,11 @@ export default function Main() {
               Cupiditate, reiciendis quibusdam nostrum inventore praesentium
               harum voluptate? Quam numquam adipisci neque labore necessitatibus
               nisi voluptatibus eos! Quod nemo distinctio reprehenderit
-              reiciendis.
+              reiciendis. Lorem ipsum dolor, sit amet consectetur adipisicing
+              elit. Dolores alias officia minus ab voluptatum deleniti ea
+              sapiente perspiciatis, molestias, aspernatur quasi reiciendis.
+              Exercitationem laboriosam ea excepturi, nisi consequatur vero
+              corporis.
             </p>
             {/* <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
