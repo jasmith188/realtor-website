@@ -19,7 +19,7 @@ export default function Main() {
           aria-label="Global">
           <div className="flex lg:flex-1">
             {' '}
-            Place Image here
+            Image here
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only">Glenn and Pam Sell NC Homes</span>
               {/* <img
